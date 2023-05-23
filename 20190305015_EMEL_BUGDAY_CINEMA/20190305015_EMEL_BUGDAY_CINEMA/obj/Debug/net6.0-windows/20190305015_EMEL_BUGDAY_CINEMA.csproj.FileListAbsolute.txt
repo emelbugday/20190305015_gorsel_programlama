@@ -1,0 +1,50 @@
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.exe
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.deps.json
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.runtimeconfig.json
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.pdb
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.AssemblyReference.cache
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form1.resources
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form2.resources
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form3.resources
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form4.resources
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Properties.Resources.resources
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.GenerateResource.cache
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.AssemblyInfoInputs.cache
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.AssemblyInfo.cs
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.CoreCompileInputs.cache
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\refint\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.pdb
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.genruntimeconfig.cache
+C:\Users\e.bugday\source\repos\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\ref\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.exe
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.deps.json
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.runtimeconfig.json
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.pdb
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.AssemblyReference.cache
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form1.resources
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form2.resources
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form3.resources
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form4.resources
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Properties.Resources.resources
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.GenerateResource.cache
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.AssemblyInfoInputs.cache
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.AssemblyInfo.cs
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.CoreCompileInputs.cache
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\refint\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.pdb
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.genruntimeconfig.cache
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\ref\20190305015_EMEL_BUGDAY_CINEMA.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\20190305015_EMEL_BUGDAY_CINEMA.csproj.CopyComplete
+C:\Users\emlbg\OneDrive - Piri Reis Üniversitesi\school\YBS305 - Görsel Programlama\Other\20190305015_EMEL_BUGDAY_CINEMA\20190305015_EMEL_BUGDAY_CINEMA\obj\Debug\net6.0-windows\_20190305015_EMEL_BUGDAY_CINEMA.Form5.resources
